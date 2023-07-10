@@ -1,0 +1,18 @@
+.test{
+    height: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    background-color: aqua;
+    color: orange;
+}
+.link{
+    text-decoration: none;
+    color:green ;
+    padding: 2rem;
+    margin: 2rem;
+    line-height: 2rem;
+}
+.link:hover{
+    
+    color:red ;
+}
